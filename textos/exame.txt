@@ -1,0 +1,2 @@
+Questão 1: explique como um computador armazena números.
+Questão 2: o que é uma árvore AVL?

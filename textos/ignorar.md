@@ -1,0 +1,1 @@
+computador computador computador computador
